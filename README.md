@@ -68,5 +68,5 @@ Este projeto é projetado para o Raspberry Pi Pico W e demonstra o uso de vário
 
 ## Vídeo de Teste
 
-Assista ao vídeo de teste [aqui](https://example.com/test-video).
+Assista ao vídeo de teste [aqui](https://youtube.com/shorts/6fg_SOUc9wM?feature=share).
 
